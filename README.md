@@ -8,5 +8,5 @@ Game Moodboard. Theme: Abstract Art and Creature Simulation.
 Game Wireframe. Illustrates a very simple version of the project.
 ![Project Wireframe](Wireframe.jpeg)
 Bonus: Game Start Screen.
----
+<br></br>
 ![Project Start Screen](StartScreen.png)
