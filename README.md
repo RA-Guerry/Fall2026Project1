@@ -1,6 +1,7 @@
 # Fall2026Project1
 
-**InKritters**: Click with the Mouse to place Critters on a Canvas, and they'll paint you a picture! More instructions inside. ![Game Link](https://ra-guerry.github.io/Fall2026Project1/)
+**InKritters**: Click with the Mouse to place Critters on a Canvas, and they'll paint you a picture! More instructions inside. 
+![Game Link](https://ra-guerry.github.io/Fall2026Project1/)
 
 # Project Images
 Game Moodboard. Theme: Abstract Art and Creature Simulation.
