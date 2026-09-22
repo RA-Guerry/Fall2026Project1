@@ -3,7 +3,7 @@ html, body {
   padding: 0;
   text-align: center;
   color: yellow;
-  background-color: "black";
+  background-color: black;
 }
 canvas {
   margin: auto;
